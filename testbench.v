@@ -15,7 +15,7 @@ module testbench();
         $dumpvars;
         a = 0;
         b = 0;
-        #5
+        #5 
         a = 1;
         b = 0;
         #5
